@@ -5,11 +5,9 @@
 <p>
 
 <center>
-  <h3>Login page</h3>
-  <img src="14.png">
+  <h3></h3>
+  <img src="phpauthentication system.png">
   <p>
-  <h3>Sign up page</h3>
-  <img src="15.png">
 </center>
 
 <p><p>
