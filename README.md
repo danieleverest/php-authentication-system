@@ -6,7 +6,7 @@
 
 <center>
   <h3></h3>
-  <img src="phpauthentication system.png">
+  <img src="phpauthentication system.png" alt="preview">
   <p>
 </center>
 
